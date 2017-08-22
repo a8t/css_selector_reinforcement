@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+
+a:hover {
+  color: black;
+}
+
+h1 {
+  font-size: 300px;
+}
+
+li {
+  display: inline-block;
+}
